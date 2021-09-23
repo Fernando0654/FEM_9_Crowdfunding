@@ -4,7 +4,7 @@ html, body {
           box-sizing: border-box;
   padding: 0;
   margin: 0;
-  background-color: #f3ecec;
+  background-color: #fafafa;
 }
 
 ol, li {
@@ -34,6 +34,7 @@ header {
 
 header h1 {
   width: 40%;
+  margin: 1em;
 }
 
 header a {
