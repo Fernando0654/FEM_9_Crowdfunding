@@ -4,7 +4,7 @@ html, body {
           box-sizing: border-box;
   padding: 0;
   margin: 0;
-  background-color: #f3ecec;
+  background-color: #fafafa;
 }
 
 ol, li {
@@ -36,7 +36,7 @@ main {
       -ms-flex-align: center;
           align-items: center;
   width: 80%;
-  max-width: 800px;
+  max-width: 700px;
   margin: auto;
   padding: 1.5em;
   margin-top: -4em;
